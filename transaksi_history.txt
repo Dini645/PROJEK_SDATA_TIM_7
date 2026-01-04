@@ -1,0 +1,190 @@
+=== RIWAYAT TRANSAKSI DRIVE-THRU ===
+Tanggal Export: Sistem Drive-Thru
+
+Transaksi #1
+No. Pesanan  : 1020
+Pelanggan    : Yora
+Kode         : A20
+Total        : Rp 30000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #2
+No. Pesanan  : 1019
+Pelanggan    : Zulfi
+Kode         : A19
+Total        : Rp 40000
+Makanan      : 2 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #3
+No. Pesanan  : 1018
+Pelanggan    : Bayu
+Kode         : A18
+Total        : Rp 12000
+Makanan      : 0 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #4
+No. Pesanan  : 1017
+Pelanggan    : Kevin
+Kode         : A17
+Total        : Rp 22000
+Makanan      : 0 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #5
+No. Pesanan  : 1016
+Pelanggan    : Marin
+Kode         : A16
+Total        : Rp 60000
+Makanan      : 3 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #6
+No. Pesanan  : 1015
+Pelanggan    : Feta
+Kode         : A15
+Total        : Rp 15000
+Makanan      : 0 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #7
+No. Pesanan  : 1014
+Pelanggan    : Caca
+Kode         : A14
+Total        : Rp 22000
+Makanan      : 0 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #8
+No. Pesanan  : 1013
+Pelanggan    : Yohan
+Kode         : A13
+Total        : Rp 20000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #9
+No. Pesanan  : 1012
+Pelanggan    : Lea
+Kode         : A12
+Total        : Rp 20000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #10
+No. Pesanan  : 1011
+Pelanggan    : Amir
+Kode         : A11
+Total        : Rp 20000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #11
+No. Pesanan  : 1010
+Pelanggan    : Tesa
+Kode         : A10
+Total        : Rp 15000
+Makanan      : 0 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #12
+No. Pesanan  : 1009
+Pelanggan    : Deno 
+Kode         : A09
+Total        : Rp 45000
+Makanan      : 1 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #13
+No. Pesanan  : 1008
+Pelanggan    : Adzim
+Kode         : A08
+Total        : Rp 22000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #14
+No. Pesanan  : 1007
+Pelanggan    : Reno
+Kode         : A07
+Total        : Rp 60000
+Makanan      : 2 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #15
+No. Pesanan  : 1006
+Pelanggan    : Zean
+Kode         : A06
+Total        : Rp 40000
+Makanan      : 2 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #16
+No. Pesanan  : 1005
+Pelanggan    : Fifi
+Kode         : A05
+Total        : Rp 20000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #17
+No. Pesanan  : 1004
+Pelanggan    : Retta
+Kode         : A04
+Total        : Rp 44000
+Makanan      : 0 item
+Minuman      : 2 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #18
+No. Pesanan  : 1003
+Pelanggan    : Lyla
+Kode         : A03
+Total        : Rp 20000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #19
+No. Pesanan  : 1002
+Pelanggan    : Dini
+Kode         : A02
+Total        : Rp 40000
+Makanan      : 2 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #20
+No. Pesanan  : 1001
+Pelanggan    : Mita
+Kode         : A01
+Total        : Rp 20000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+
+SUMMARY:
+Total Transaksi: 20
+Total Pemasukan: Rp 587000
+Total Keuntungan: Rp 234800
+Total Makanan: 20
+Total Minuman: 8

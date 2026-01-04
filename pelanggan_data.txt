@@ -1,0 +1,103 @@
+=== DATA PELANGGAN DRIVE-THRU ===
+Tanggal Export: Sistem Drive-Thru
+
+Nama: Yora
+Kode: A20
+Total Belanja: Rp 30000
+Kunjungan: 1
+------------------------------
+Nama: Zulfi
+Kode: A19
+Total Belanja: Rp 40000
+Kunjungan: 1
+------------------------------
+Nama: Bayu
+Kode: A18
+Total Belanja: Rp 12000
+Kunjungan: 1
+------------------------------
+Nama: Kevin
+Kode: A17
+Total Belanja: Rp 22000
+Kunjungan: 1
+------------------------------
+Nama: Marin
+Kode: A16
+Total Belanja: Rp 60000
+Kunjungan: 1
+------------------------------
+Nama: Feta
+Kode: A15
+Total Belanja: Rp 15000
+Kunjungan: 1
+------------------------------
+Nama: Caca
+Kode: A14
+Total Belanja: Rp 22000
+Kunjungan: 1
+------------------------------
+Nama: Yohan
+Kode: A13
+Total Belanja: Rp 20000
+Kunjungan: 1
+------------------------------
+Nama: Lea
+Kode: A12
+Total Belanja: Rp 20000
+Kunjungan: 1
+------------------------------
+Nama: Amir
+Kode: A11
+Total Belanja: Rp 20000
+Kunjungan: 1
+------------------------------
+Nama: Tesa
+Kode: A10
+Total Belanja: Rp 15000
+Kunjungan: 1
+------------------------------
+Nama: Deno 
+Kode: A09
+Total Belanja: Rp 45000
+Kunjungan: 1
+------------------------------
+Nama: Adzim
+Kode: A08
+Total Belanja: Rp 22000
+Kunjungan: 1
+------------------------------
+Nama: Reno
+Kode: A07
+Total Belanja: Rp 60000
+Kunjungan: 1
+------------------------------
+Nama: Zean
+Kode: A06
+Total Belanja: Rp 40000
+Kunjungan: 1
+------------------------------
+Nama: Fifi
+Kode: A05
+Total Belanja: Rp 20000
+Kunjungan: 1
+------------------------------
+Nama: Retta
+Kode: A04
+Total Belanja: Rp 44000
+Kunjungan: 1
+------------------------------
+Nama: Lyla
+Kode: A03
+Total Belanja: Rp 20000
+Kunjungan: 1
+------------------------------
+Nama: Dini
+Kode: A02
+Total Belanja: Rp 40000
+Kunjungan: 1
+------------------------------
+Nama: Mita
+Kode: A01
+Total Belanja: Rp 20000
+Kunjungan: 1
+------------------------------
