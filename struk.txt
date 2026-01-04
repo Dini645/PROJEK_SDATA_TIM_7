@@ -5,7 +5,7 @@
 Atas nama: Mita
 Kode     : A01
 Total: Rp 20000
-Tanggal: Sistem Drive-Thru
+Tanggal: 12-01-2026
 ==================================================
 
 
@@ -277,4 +277,5 @@ Kode     : A20
 Total: Rp 30000
 Tanggal: Sistem Drive-Thru
 ==================================================
+
 
